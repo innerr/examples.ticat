@@ -1,1 +1,1 @@
-dbg.step.on : ex.test.interact : ex.test.exts
+dbg.step.on : ex.test.conn : ex.test.interact : ex.test.exts

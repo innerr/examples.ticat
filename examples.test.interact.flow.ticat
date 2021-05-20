@@ -1,1 +1,1 @@
-ex.arg : ex.call : ex.rt : ex.nest : ex.stderr
+ex.arg : ex.in : ex.call : ex.rt : ex.nest
