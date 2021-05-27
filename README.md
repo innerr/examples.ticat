@@ -18,7 +18,7 @@ $> ticat examples.test
     - Pass env to a module / get env from ticat ([env-in.bash](./examples/env-in.bash)) ([env-in.bash.ticat](./examples/env-in.bash.ticat))
     - Modify env in a module ([return.bash](./examples/return.bash)) ([return.bash.ticat](./examples/return.bash.ticat))
     - Call other ticat modules in a module ([call-mod.bash](./examples/call-mod.bash)) ([call-mod.bash.ticat](./examples/call-mod.bash.ticat))
-    - Call other module witch will modify env ([nest.bash](./examples/nest.bash)) ([nest.bash.ticat](./examples/nest.bash.ticat))
+    - Call other module which will modify env ([nest.bash](./examples/nest.bash)) ([nest.bash.ticat](./examples/nest.bash.ticat))
 * Examples: **env** dependency declarations
     - Env key write declaration ([conn-write.bash](./examples/conn-write.bash)) ([conn-write.bash.ticat](./examples/conn-write.bash.ticat))
     - Env key read declaration ([conn-read.bash](./examples/conn-read.bash)) ([conn-read.bash.ticat](./examples/conn-read.bash.ticat))
