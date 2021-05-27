@@ -1,13 +1,13 @@
 # examples.ticat
-A [ticat](https://github.com/innerr/ticat) mods repo:
-examples (bash, python, golang, etc)
+A [ticat](https://github.com/innerr/ticat) modules repo:
+module developing examples (bash, python, golang, repo as module, etc)
 
 ## Apply this repo by running:
 ```bash
-$> ticat hub.add innerr/examples
+$> ticat hub.add innerr/examples.ticat
 ```
 
-Then test all by:
+Test all by:
 ```bash
 $> ticat examples.test
 ```

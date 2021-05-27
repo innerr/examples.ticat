@@ -1,4 +1,4 @@
-help = example: a mod without ext
+help = a module without ext, could be any executable file
 abbrs = ext
 
 [args]

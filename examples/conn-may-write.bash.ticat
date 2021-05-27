@@ -1,4 +1,4 @@
-help = example: env-may-write dependency declaration
+help = this module may-write the example key
 abbrs = maywrite|mayw|mw
 
 [env]

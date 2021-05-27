@@ -1,2 +1,2 @@
-help = example: pass env to a mod by stdin
+help = pass env to a module by stdin
 abbrs = in

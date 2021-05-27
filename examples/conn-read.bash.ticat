@@ -1,5 +1,5 @@
-help = example: env-read dependency declaration
+help = this module read then write the example key
 abbrs = read|rd
 
 [env]
-examples.my-key|m|M|key|k|Key = read|write
+examples.my-key|m|M|key|k|Key = read : write

@@ -1,4 +1,4 @@
-help = example: pass args to a golang mod
+help = pass args to a golang module
 abbrs = go
 
 [args]

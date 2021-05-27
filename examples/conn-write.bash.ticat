@@ -1,4 +1,4 @@
-help = example: env-write dependency declaration
+help = this module write the example key
 abbrs = write|wrt
 
 [env]

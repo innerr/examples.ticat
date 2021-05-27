@@ -1,4 +1,4 @@
-help = example: env-may-read dependency declaration
+help = this module may-read the example key
 abbrs = mayread|mayr|mr
 
 [env]
