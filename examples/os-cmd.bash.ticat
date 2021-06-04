@@ -1,0 +1,5 @@
+help = test os-command dependency
+abbrs = os-cmd
+
+[dep]
+awk = test os-command dependency
