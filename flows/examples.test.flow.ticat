@@ -1,5 +1,3 @@
-#
-# help = @selftest @ready
-# abbr = examples.t
-#
-dbg.step.on : ex.test.conn : ex.test.interact : ex.test.exts : ex.os-cmd
+help = @selftest @ready
+abbr = examples.t
+flow = dbg.step.on : ex.test.conn : ex.test.interact : ex.test.exts : ex.os-cmd
