@@ -25,6 +25,7 @@ $> ticat examples.test
     - Env key read declaration ([conn-read.bash](./examples/conn-read.bash)) ([conn-read.bash.ticat](./examples/conn-read.bash.ticat))
     - Env key may-write declaration ([conn-may-write.bash](./examples/conn-may-write.bash)) ([conn-may-write.bash.ticat](./examples/conn-may-write.bash.ticat))
     - Env key may-read declaration ([conn-may-read.bash](./examples/conn-may-read.bash)) ([conn-may-read.bash.ticat](./examples/conn-may-read.bash.ticat))
+    - Map arg value to env declaration, for creating flow command without env manipulating  ([conn-arg-write.bash](./examples/conn-arg-write.bash)) ([conn-arg-write.bash.ticat](./examples/conn-arg-write.bash.ticat))
     - Env value auto write declaration, for creating command to manipulating env ([conn-auto-write.bash.ticat](./examples/conn-auto-write.bash.ticat))
 * Examples: multi-language supporting, repo(dir) supporting
     - A binary module without ext ([no-ext](./examples/no-ext)) ([no-ext.ticat](./examples/no-ext.ticat))
