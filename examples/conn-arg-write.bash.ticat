@@ -1,0 +1,8 @@
+help = this module map arg value to the example key
+abbrs = argw
+
+[arg]
+my-arg|ma = ''
+
+[arg2env]
+examples.my-key|m|M|key|k|Key = my-arg
