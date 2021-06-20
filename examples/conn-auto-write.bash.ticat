@@ -1,0 +1,5 @@
+help = this module auto write the example key
+abbrs = aw
+
+[env.write]
+examples.my-key|m|M|key|k|Key = my-value
