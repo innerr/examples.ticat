@@ -6,7 +6,7 @@ session="${1}"
 shift
 env=`cat ${session}/env`
 # Don't forget to quote "${env}"
-ticat=`echo "${env}" | grep 'sys.paths.ticat' | tail -n 1 | awk '{print $2}'`
+ticat=`echo "${env}" | grep 'sys.paths.ticat' | tail -n 1 | awk -F '=' '{print $2}'`
 
 "${ticat}" {session="${session}"} "examples.return"
 
