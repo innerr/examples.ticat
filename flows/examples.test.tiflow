@@ -1,3 +1,4 @@
-help = test all examples @selftest
+help = test all examples
+tags = selftest
 abbr = examples.t
 flow = dbg.step.on : ex.test.conn : ex.test.interact : ex.test.exts : ex.os-cmd

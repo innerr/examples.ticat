@@ -1,0 +1,7 @@
+help = for error-return test
+abbrs = err
+
+[args]
+arg_a|a = default-A
+arg_b|b = default-B
+arg_c|c = default-C

@@ -1,0 +1,4 @@
+help = for dep-detecting test
+
+[dep]
+a-not-exists-cmd = for test
